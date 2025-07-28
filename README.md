@@ -6,9 +6,8 @@ TOYS.INC is a Mexican company founded in 1991 that sells a variety of toy produc
 The company has significant amounts of data on its sales from January 1st 2022 to September 30th 2023 on its profit margins and store locations that have been underutilised. This project analyses and synthesises this data to uncover insights to improve TOYS.INC's commercial success.
 
 Insights and recommendations are provided on the following areas:
-\begin{itemize}
-  \item **Profit Margin Analysis**: Evaluation of historical profit margins for different product categories 
-  \item **Location comparisons**: An evaluation of revenue and product level revenue distribution across store locations.
+- **Profit Margin Analysis**: Evaluation of historical profit margins for different product categories 
+- **Location comparisons**: An evaluation of revenue and product level revenue distribution across store locations.
 \end{itemize}
 
 An interactive PowerBI dashboard can be downloaded [here](https://github.com/dtan20441/portfolio_toys/blob/main/maven_toys.pbix).
