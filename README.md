@@ -11,9 +11,9 @@ Insights and recommendations are provided on the following areas:
   \item **Location comparisons**: An evaluation of revenue and product level revenue distribution across store locations.
 \end{itemize}
 
-An interactive PowerBI dashboard can be downloaded \href{https://github.com/dtan20441/portfolio_toys/blob/main/maven_toys.pbix}{here}.
+An interactive PowerBI dashboard can be downloaded [here](https://github.com/dtan20441/portfolio_toys/blob/main/maven_toys.pbix)
 
-The SQL queries utilised to inspect and perform quality checks on the datasets can be found \href{https://github.com/dtan20441/portfolio_toys/blob/main/maven_toys.sql}{here}.
+The SQL queries utilised to inspect and perform quality checks on the datasets can be found [here](https://github.com/dtan20441/portfolio_toys/blob/main/maven_toys.sql).
 
 ## Data Structure & Initial Checks
 TOYS.INC's database structure consists of 4 tables: inventory, stores, products and sales, with a total row count of 830,940 records. 
