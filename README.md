@@ -8,7 +8,6 @@ The company has significant amounts of data on its sales from January 1st 2022 t
 Insights and recommendations are provided on the following areas:
 - **Profit Margin Analysis**: Evaluation of historical profit margins for different product categories 
 - **Location comparisons**: An evaluation of revenue and product level revenue distribution across store locations.
-\end{itemize}
 
 An interactive PowerBI dashboard can be downloaded [here](https://github.com/dtan20441/portfolio_toys/blob/main/maven_toys.pbix).
 
@@ -20,4 +19,4 @@ TOYS.INC's database structure consists of 4 tables: inventory, stores, products 
 
 ## Executive Summary
 ### Overview of findings
-
+From January 2022, all product categories aside from electronics have experienced little change in their profit margins by September 2023 with occasional spikes. 
