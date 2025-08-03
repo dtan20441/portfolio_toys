@@ -19,4 +19,8 @@ TOYS.INC's database structure consists of 4 tables: inventory, stores, products 
 
 ## Executive Summary
 ### Overview of findings
-From January 2022, all product categories aside from electronics have experienced little change in their profit margins by September 2023 with occasional spikes. 
+From January 2022 to September 2023, profit margins varied by product category, with Electronics showing a downward trend, Games, Sports & Outdoors and Toys maintaining stable margins, and Arts & Crafts improving their margin.
+
+Products earn the majority of their revenue from stores located in downtown. Hence, revenue from downtown stores are considerably higher than commercial, residential and airport based stores.
+
+### Profit Margin Analysis
