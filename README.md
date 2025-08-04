@@ -24,3 +24,4 @@ From January 2022 to September 2023, profit margins varied by product category, 
 Products earn the majority of their revenue from stores located in downtown. Hence, revenue from downtown stores are considerably higher than commercial, residential and airport based stores.
 
 ### Profit Margin Analysis
+Profit margin for Electronics was 48% at January 2022 and fell to 40% in September 2023.
