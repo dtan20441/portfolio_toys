@@ -17,7 +17,7 @@ The SQL queries utilised to inspect and perform quality checks on the datasets c
 TOYS.INC's database structure consists of 4 tables: inventory, stores, products and sales, with a total row count of 830,940 records. 
 ![Entity relationship diagram](https://github.com/dtan20441/portfolio_toys/blob/main/Entity%20relationship%20diagram.png)
 
-## Executive Summary
+## Insights
 ### Overview of findings
 From January 2022 to September 2023, profit margins varied by product category, with Electronics showing a downward trend, Games, Sports & Outdoors and Toys maintaining stable margins, and Arts & Crafts improving their margin.
 
@@ -26,7 +26,16 @@ Products earn the majority of their revenue from stores located in downtown. Hen
 ### Profit Margin Analysis
 - Profit margins for all product categories are fairly high, with all categories having at least a 20% profit margin for majority for the time period.
 - **Profit margin for Electronics was 48% at January 2022 and fell to 40% in September 2023.** This corresponds with a decrease in Electronics revenue in that same time period from about $143K to $73K.
-- Profits for Toys reached its lowest in July 2022 but experienced its largest profit margin of 30% in that time. Revenue has since rebounded with its profit margin plateauing at about 20%.
+- Profits for Toys reached its lowest in July 2022 but experienced its largest profit margin of 30% in that time — suggesting cost efficiencies or a focus on high-margin products. Since then, revenue has rebounded while profit margin has plateaued at about 20%.
 
 ### Location comparisons
+- Downtown stores generate **significantly** more revenue than all other store locations. This can be attributed to the presence of more stores in downtown areas than others. 
+- For every product, downtown stores contribute the largest share of revenue, followed by commercial locations. Residential and airport stores consistently trail behind.
+
+## Recommendations
+Based on the uncovered insights:
+- With Electronics' profit margin dropping 8% and its revenue coming from 3 products, diversifying the product range is crucial. Expanding the Electronics category with new product lines would provide upsell opportunities. 
+- Analyse what operational or pricing strategies were used in July 2022 for Toys that saw their highest profit margin despite low revenue and assess whether they can be scaled or repeated.
+- For Toys, the revenue rebound has not led to improved margins, implying growth may be driven by lower-margin products or products are experiencing rising costs. Marketing should be shifted to higher-margin products and tighten cost control to limit or prevent decreasing margins.
+- 
 
