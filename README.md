@@ -1,5 +1,3 @@
-# portfolio_toys
-
 ## Project Background
 TOYS.INC is a Mexican company founded in 1991 that sells a variety of toy products via their physical stores. 
 
