@@ -1,4 +1,4 @@
-<img width="450" height="282" alt="image" src="https://github.com/user-attachments/assets/4a39076e-c912-4c94-8411-3cf79d72e708" /># portfolio_toys
+# portfolio_toys
 
 ## Project Background
 TOYS.INC is a Mexican company founded in 1991 that sells a variety of toy products via their physical stores. 
@@ -15,7 +15,7 @@ The SQL queries utilised to inspect and perform quality checks on the datasets c
 
 ## Data Structure & Initial Checks
 TOYS.INC's database structure consists of 4 tables: inventory, stores, products and sales, with a total row count of 830,940 records. 
-![Entity relationship diagram](https://github.com/dtan20441/portfolio_toys/blob/main/Screenshots/Electronics%20profit%20margin%20decline.png)
+![Entity relationship diagram](https://github.com/dtan20441/portfolio_toys/blob/main/Screenshots/Entity%20relationship%20diagram.png)
 
 ## Insights
 ### Overview of findings
