@@ -1,4 +1,4 @@
-# portfolio_toys
+<img width="450" height="282" alt="image" src="https://github.com/user-attachments/assets/4a39076e-c912-4c94-8411-3cf79d72e708" /># portfolio_toys
 
 ## Project Background
 TOYS.INC is a Mexican company founded in 1991 that sells a variety of toy products via their physical stores. 
@@ -15,7 +15,7 @@ The SQL queries utilised to inspect and perform quality checks on the datasets c
 
 ## Data Structure & Initial Checks
 TOYS.INC's database structure consists of 4 tables: inventory, stores, products and sales, with a total row count of 830,940 records. 
-![Entity relationship diagram](https://github.com/dtan20441/portfolio_toys/blob/main/Entity%20relationship%20diagram.png)
+![Entity relationship diagram](https://github.com/dtan20441/portfolio_toys/blob/main/Screenshots/Electronics%20profit%20margin%20decline.png)
 
 ## Insights
 ### Overview of findings
@@ -27,16 +27,18 @@ Products earn the majority of their revenue from stores located in downtown. Hen
 - Profit margins for all product categories are fairly high, with all categories having at least a 20% profit margin for majority for the time period.
 - **Profit margin for Electronics was 48% at January 2022 and fell to 40% in September 2023.** This corresponds with a decrease in Electronics revenue in that same time period from about $143K to $73K.
 - Profits for Toys reached its lowest in July 2022 but experienced its largest profit margin of 30% in that time — suggesting cost efficiencies or a focus on high-margin products. Since then, revenue has rebounded while profit margin has plateaued at about 20%.
+![Profit margin graph](https://github.com/dtan20441/portfolio_toys/blob/main/Screenshots/Electronics%20profit%20margin%20decline.png)
 
 ### Location comparisons
 - Downtown stores generate **significantly** more revenue than all other store locations. This can be attributed to the presence of more stores in downtown areas than others. 
 - For every product, downtown stores contribute the largest share of revenue, followed by commercial locations. Residential and airport stores consistently trail behind.
+![Store revenue graph](https://github.com/dtan20441/portfolio_toys/blob/main/Screenshots/Store%20revenue.png)
 
 ## Recommendations
 Based on the uncovered insights:
-- With Electronics' profit margin dropping 8% and its revenue coming from 3 products, diversifying the product range is crucial. Expanding the Electronics category with new product lines would provide upsell opportunities. 
-- Analyse what operational or pricing strategies were used in July 2022 for Toys that saw their highest profit margin despite low revenue and assess whether they can be scaled or repeated.
+- With Electronics' profit margin dropping 8% and its revenue coming from 3 products, **diversifying the product range is crucial**. Expanding the Electronics category with new product lines would provide upsell opportunities. 
+- Analyse what operational or pricing strategies were used in July 2022 for Toys that saw their highest profit margin despite low revenue and **assess whether they can be scaled or repeated.**
 - For Toys, the revenue rebound has not led to improved margins, implying growth may be driven by lower-margin products or products are experiencing rising costs. Marketing should be shifted to higher-margin products and tighten cost control to limit or prevent decreasing margins.
-- Airport and Residential store locations contribute the least revenue and show low % of sales for all products. A profitability audit should be conducted to assess if the cost of running the stores are justified. Consider offering exclusive or travel-friendly items at Airport stores.
-- Downtown stores consistently generate the highest revenue, with all listed products earning the majority of their sales from these locations. As a result, they should be prioritized for expansion, increased staffing, and optimized inventory management to further capitalize on their strong performance.
+- **Re-evaluate Airport and Residential store locations.** As these stores contribute the least revenue and show low % of sales for all products, a profitability audit should be conducted to assess if the cost of running the stores are justified. 
+- Downtown stores consistently generate the highest revenue, with all listed products earning the majority of their sales from these locations. As a result, they should be **prioritized for expansion, increased staffing, and optimized inventory management** to further capitalize on their strong performance.
 
