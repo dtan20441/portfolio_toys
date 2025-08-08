@@ -27,11 +27,13 @@ Products earn the majority of their revenue from stores located in downtown. Hen
 - Profit margins for all product categories are fairly high, with all categories having at least a 20% profit margin for majority for the time period.
 - **Profit margin for Electronics was 48% at January 2022 and fell to 40% in September 2023.** This corresponds with a decrease in Electronics revenue in that same time period from about $143K to $73K.
 - Profits for Toys reached its lowest in July 2022 but experienced its largest profit margin of 30% in that time — suggesting cost efficiencies or a focus on high-margin products. Since then, revenue has rebounded while profit margin has plateaued at about 20%.
+  
 ![Profit margin graph](https://github.com/dtan20441/portfolio_toys/blob/main/Screenshots/Electronics%20profit%20margin%20decline.png)
 
 ### Location comparisons
 - Downtown stores generate **significantly** more revenue than all other store locations. This can be attributed to the presence of more stores in downtown areas than others. 
 - For every product, downtown stores contribute the largest share of revenue, followed by commercial locations. Residential and airport stores consistently trail behind.
+  
 ![Store revenue graph](https://github.com/dtan20441/portfolio_toys/blob/main/Screenshots/Store%20revenue.png)
 
 ## Recommendations
