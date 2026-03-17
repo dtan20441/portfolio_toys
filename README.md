@@ -5,7 +5,7 @@ The company has significant amounts of data on its sales from January 1st 2022 t
 
 Insights and recommendations are provided on the following areas:
 - **Profit Margin Analysis**: Evaluation of historical profit margins for different product categories 
-- **Location comparisons**: An analysis of revenue and product level revenue distribution across store locations.
+- **Location comparisons**: An analysis of revenue and product level performance across store locations.
 
 An interactive PowerBI dashboard can be downloaded [here](https://github.com/dtan20441/portfolio_toys/blob/main/maven_toys.pbix).
 
