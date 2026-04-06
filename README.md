@@ -9,6 +9,9 @@ Insights and recommendations are provided on the following areas:
 
 An interactive PowerBI dashboard can be downloaded [here](https://github.com/dtan20441/portfolio_toys/blob/main/maven_toys.pbix).
 
+A preview can be seen here. 
+![Dashboard](https://github.com/dtan20441/portfolio_toys/blob/main/Screenshots/dashboard.png)
+
 The SQL queries utilised to inspect and perform quality checks on the datasets can be found [here](https://github.com/dtan20441/portfolio_toys/blob/main/maven_toys.sql).
 
 ## Data Structure & Initial Checks
